@@ -1,6 +1,10 @@
 # GitHub Contribution Booster & Auto-Pusher
 
-An all-in-one Windows batch script (`push.bat` / `push_contributions.bat`) to automate Git commits and push them to GitHub to supercharge and maintain your contribution graph activity (the green squares).
+An all-in-one Windows batch script (`push.bat` / `push_contributions.bat`) to automate Git commits and push them directly to [**ROS-RENDO/Final-MobileDevelopment**](https://github.com/ROS-RENDO/Final-MobileDevelopment) to maintain your GitHub contribution graph activity (the green squares).
+
+- **Target Repository**: `https://github.com/ROS-RENDO/Final-MobileDevelopment.git`
+- **Default Branch**: `main`
+- **Author**: `ROS-RENDO <rousrendo@gmail.com>`
 
 ---
 
